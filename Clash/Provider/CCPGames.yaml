@@ -1,0 +1,10 @@
+payload:
+  # > CCPGames
+  - DOMAIN-SUFFIX,ccpgames.com
+
+  # > EVE-Online International Server
+  - DOMAIN-SUFFIX,eveonline.com
+  - DOMAIN-SUFFIX,evetech.net
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,extccp.com
+  - DOMAIN-SUFFIX,recaptcha.net
