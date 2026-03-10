@@ -5,12 +5,7 @@ payload:
   # > EVE-Online
   - DOMAIN-SUFFIX,eveonline.com
   - DOMAIN-SUFFIX,evetech.net
-  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,extccp.com
-  - DOMAIN-SUFFIX,recaptcha.net
-  - DOMAIN-SUFFIX,ctfassets.net
-  - DOMAIN-KEYWORD,report-rui
-  - DOMAIN-KEYWORD,ytimg
 
   # > EVE-Vanguard
   - DOMAIN-SUFFIX,evevanguardtech.com
